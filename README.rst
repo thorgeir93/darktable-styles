@@ -8,3 +8,16 @@ You could run following command:
 .. code-block::
 
     $ rsync styles/ ~/.config/darktable/styles/
+
+To sync local changes run:
+
+
+.. code-block::
+
+    $ rsync -v /home/thorgeir/.config/darktable/styles/* styles
+
+
+TODO
+----
+
+* link the /home/thorgeir/.config/darktable/styles folder to the styles folder in here.
