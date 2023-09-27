@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>crop|crop-10%</name><description></description></info><style><plugin><num>25</num><module>1</module><operation>crop</operation><op_params>cbcccc3dc8cccc3d6566663f6566663f0000000001000000</op_params><enabled>1</enabled><blendop_params>gz12eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfOqC/0AAogFpBh0E</blendop_params><blendop_version>13</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name><multi_name_hand_edited>0</multi_name_hand_edited></plugin></style></darktable_style>
