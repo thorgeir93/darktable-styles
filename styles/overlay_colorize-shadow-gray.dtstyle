@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0"><info><name>overlay|colorize-shadow-gray</name><description></description></info><style><plugin><num>23</num><module>2</module><operation>colorize</operation><op_params>15b3093e5c8f423e3d0a1b411e85cb4102000000</op_params><enabled>1</enabled><blendop_params>gz11eJxjZGBgYAJifgYYOOHEgAZY0QVwggZ7CB6pfOqC/0AAogFfbhz+</blendop_params><blendop_version>13</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name><multi_name_hand_edited>0</multi_name_hand_edited></plugin></style></darktable_style>
