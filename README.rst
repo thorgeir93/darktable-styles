@@ -7,7 +7,7 @@ You could run following command:
 
 .. code-block::
 
-    $ rsync styles/ ~/.config/darktable/styles/
+    $ rsync -v ./styles/* ~/.config/darktable/styles/
 
 To sync local changes run:
 
