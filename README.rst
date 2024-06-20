@@ -9,6 +9,9 @@ You could run following command:
 
     $ rsync -v ./styles/* ~/.config/darktable/styles/
 
+    # use --delete to remove unnecessary styles in the destination.
+    $ rsync -av --delete ./styles/ ~/.config/darktable/styles/
+
 To sync local changes run:
 
 
