@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<darktable_style version="1.0"><info><name>crop-to-left-7</name><description></description></info><style><plugin><num>31</num><module>1</module><operation>crop</operation><op_params>ba43a633a1930d3dce4d6e3f0727773f0000000001000000</op_params><enabled>1</enabled><blendop_params>gz12eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfOqC/0AAogFpBh0E</blendop_params><blendop_version>13</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name><multi_name_hand_edited>0</multi_name_hand_edited></plugin></style></darktable_style>

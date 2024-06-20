@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<darktable_style version="1.0"><info><name>rotate_to_right_fix01</name><description></description></info><style><plugin><num>24</num><module>5</module><operation>ashift</operation><op_params>gz18eJzb4J7owIACTjgxMDTYI2gGBkYg/hsobMt1pMw+xHiZ7RnjbHuGUTAKRgFFAAAoSAtg</op_params><enabled>1</enabled><blendop_params>gz14eJxjYIAACQYYOOHEgAZY0QVwggZ7CB6pfNoAAE8gGQg=</blendop_params><blendop_version>11</blendop_version><multi_priority>0</multi_priority><multi_name></multi_name></plugin></style></darktable_style>
